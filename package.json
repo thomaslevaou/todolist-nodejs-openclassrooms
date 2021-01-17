@@ -1,0 +1,12 @@
+{
+    "name": "todolist",
+    "version": "0.1.0",
+    "dependencies": {
+        "body-parser": "~1.10.2",
+        "cookie-session": "~1.1.0",
+        "ejs": "~2.6.2",
+        "express": "~4.17.0"
+    },
+    "author": "Peterkolios  <peterkolios.orage@gmail.com>",
+    "description": "Un gestionnaire de todolist ultra basique"
+}
