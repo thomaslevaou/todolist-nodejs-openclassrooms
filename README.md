@@ -17,4 +17,4 @@ npm install
 node todolist.js
 ```
 
-Le site est alors accessible dans le navigateur, à l'adresse http://localhost:8080/
+Le résultat est alors accessible dans le navigateur, à l'adresse http://localhost:8080/
