@@ -16,3 +16,5 @@ npm install cookie-session
 npm install
 node todolist.js
 ```
+
+Le site est alors accessible dans le navigateur, à l'adresse http://localhost:8080/
